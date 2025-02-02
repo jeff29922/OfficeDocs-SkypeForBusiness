@@ -1,5 +1,5 @@
 > [!TIP]
-> You can automatically create and configre Teams Rooms resource accounts via the [Surface Hub and Microsoft Teams Rooms automated setup guide](https://go.microsoft.com/fwlink/?linkid=2221605).
+> You can automatically create and configure Teams Rooms resource accounts via the [Surface Hub and Microsoft Teams Rooms automated setup guide](https://go.microsoft.com/fwlink/?linkid=2221605).
 >
 > We recommend that you create all resource accounts as cloud only using Microsoft Entra ID and Exchange Online. If using Exchange on-premise, you must be in hybrid for the Teams Rooms device to read the calendar.
 
